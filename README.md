@@ -1,1 +1,2 @@
 # Delhi-Metro-Analysis
+Analyzing the network of metro systems, known as metro network analysis, is an essential process for comprehending its composition, effectiveness, and efficiency. Metro networks play a crucial role in urban transportation infrastructure, impacting commuter experiences and city planning. By conducting a Python-based analysis of the Delhi Metro Network, we aim to achieve objectives such as optimizing routes, reducing congestion, improving passenger flow, and understanding travel patterns.
